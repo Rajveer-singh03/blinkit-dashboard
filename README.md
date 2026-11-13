@@ -46,3 +46,4 @@ Blinkit needs to understand which products and outlet formats drive sales, and h
 ## Author
 **Rajveer Singh Bassan**  
 Aspiring Data Analyst | Power BI | SQL | Excel
+[Linkedin](https://www.linkedin.com/in/rajveer-singh-65b9b32b2/)
