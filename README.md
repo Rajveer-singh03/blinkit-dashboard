@@ -44,5 +44,5 @@ Blinkit needs to understand which products and outlet formats drive sales, and h
 3. Use the filter panel to explore the data by outlet location, outlet size and item type.
 
 ## Author
-**Rajveer Singh Bassan**
+**Rajveer Singh Bassan**  
 Aspiring Data Analyst | Power BI | SQL | Excel
