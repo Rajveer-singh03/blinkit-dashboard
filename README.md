@@ -33,10 +33,6 @@ Blinkit needs to understand which products and outlet formats drive sales, and h
 6. **Outlet establishment trend:** sales rose from $78K in 2012 to about $130K and stayed steady until 2016. They peaked at $205K in 2018, then fell back to about $131K by 2022.
 7. **Consistent averages:** average sales ($140–$142) and average rating (4) were nearly identical across all outlet types.
 
-## Project Structure
-- `Dashboard/` – Power BI file (.pbix)
-- `Dataset/` – Data used for the analysis
-- `Screenshots/` – Dashboard images
 
 ## How to Use
 1. Download or clone this repository.
